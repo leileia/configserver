@@ -7,7 +7,3 @@ server:
 spring:
   application:
     name: user
-#开启熔断器
-feign:
-  hystrix:
-    enabled: true
